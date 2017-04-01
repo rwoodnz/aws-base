@@ -1,0 +1,9 @@
+{
+  "name": "aws-base",
+  "version": "0.0.1",
+  "description": "aws lambdas with authorisation",
+  "licence": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^7.3.0"
+  }
+}
